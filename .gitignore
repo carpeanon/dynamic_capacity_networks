@@ -1,0 +1,7 @@
+*.log
+*.swp
+*.pyc
+*.out
+*_test.py
+*.png
+trials/
